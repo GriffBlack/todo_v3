@@ -1,0 +1,12 @@
+* {
+  font-family:  Helvetica, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+}
